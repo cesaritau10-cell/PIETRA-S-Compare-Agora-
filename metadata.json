@@ -1,0 +1,5 @@
+{
+  "name": "PIETRA'S Compare sua melhor Internet",
+  "description": "Comparador de planos de internet para a região de Pelotas. Encontre a melhor oferta para sua casa ou empresa.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
